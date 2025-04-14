@@ -54,8 +54,7 @@ pipeline {
             }
         }
     }
-<<<<<<< HEAD
-=======
+
 }pipeline {
     agent any
 
@@ -84,5 +83,4 @@ pipeline {
             }
         }
     }
->>>>>>> 6dc08d3 (Add Jenkinsfile for Jenkins CI pipeline)
 }
